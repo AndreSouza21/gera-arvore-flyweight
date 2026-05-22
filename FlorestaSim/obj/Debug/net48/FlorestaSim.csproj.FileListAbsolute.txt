@@ -1,0 +1,8 @@
+C:\Users\Andrépvp\Desktop\proj\fly\FlorestaSim\bin\Debug\net48\FlorestaSim.exe.config
+C:\Users\Andrépvp\Desktop\proj\fly\FlorestaSim\bin\Debug\net48\FlorestaSim.exe
+C:\Users\Andrépvp\Desktop\proj\fly\FlorestaSim\bin\Debug\net48\FlorestaSim.pdb
+C:\Users\Andrépvp\Desktop\proj\fly\FlorestaSim\obj\Debug\net48\FlorestaSim.csproj.AssemblyReference.cache
+C:\Users\Andrépvp\Desktop\proj\fly\FlorestaSim\obj\Debug\net48\FlorestaSim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrépvp\Desktop\proj\fly\FlorestaSim\obj\Debug\net48\FlorestaSim.csproj.CoreCompileInputs.cache
+C:\Users\Andrépvp\Desktop\proj\fly\FlorestaSim\obj\Debug\net48\FlorestaSim.exe
+C:\Users\Andrépvp\Desktop\proj\fly\FlorestaSim\obj\Debug\net48\FlorestaSim.pdb

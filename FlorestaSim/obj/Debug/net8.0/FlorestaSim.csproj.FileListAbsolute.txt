@@ -1,0 +1,12 @@
+C:\Users\Andrépvp\Desktop\proj\fly\FlorestaSim\bin\Debug\net8.0\FlorestaSim.exe
+C:\Users\Andrépvp\Desktop\proj\fly\FlorestaSim\bin\Debug\net8.0\FlorestaSim.deps.json
+C:\Users\Andrépvp\Desktop\proj\fly\FlorestaSim\bin\Debug\net8.0\FlorestaSim.runtimeconfig.json
+C:\Users\Andrépvp\Desktop\proj\fly\FlorestaSim\bin\Debug\net8.0\FlorestaSim.dll
+C:\Users\Andrépvp\Desktop\proj\fly\FlorestaSim\bin\Debug\net8.0\FlorestaSim.pdb
+C:\Users\Andrépvp\Desktop\proj\fly\FlorestaSim\obj\Debug\net8.0\FlorestaSim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrépvp\Desktop\proj\fly\FlorestaSim\obj\Debug\net8.0\FlorestaSim.csproj.CoreCompileInputs.cache
+C:\Users\Andrépvp\Desktop\proj\fly\FlorestaSim\obj\Debug\net8.0\FlorestaSim.dll
+C:\Users\Andrépvp\Desktop\proj\fly\FlorestaSim\obj\Debug\net8.0\refint\FlorestaSim.dll
+C:\Users\Andrépvp\Desktop\proj\fly\FlorestaSim\obj\Debug\net8.0\FlorestaSim.pdb
+C:\Users\Andrépvp\Desktop\proj\fly\FlorestaSim\obj\Debug\net8.0\FlorestaSim.genruntimeconfig.cache
+C:\Users\Andrépvp\Desktop\proj\fly\FlorestaSim\obj\Debug\net8.0\ref\FlorestaSim.dll
